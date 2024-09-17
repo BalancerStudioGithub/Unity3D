@@ -1,6 +1,6 @@
 ### Unity Application Data Sending
 
-The Unity application gathers user data and sends it to the PHP script on the server via an HTTP POST request.
+The `UniPhpSql.cs` （Unity application） gathers user data and sends it to the PHP script on the server via an HTTP POST request.
 
 ### db.php
 
